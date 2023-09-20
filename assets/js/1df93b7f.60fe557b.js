@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklightning_docs=self.webpackChunklightning_docs||[]).push([[3237],{3808:(n,t,i)=>{i.r(t),i.d(t,{default:()=>s});i(9960);var e=i(2263),c=i(7961),o=i(7294);function s(){const{siteConfig:n}=(0,e.Z)();return o.createElement(c.Z,{title:"Lightning JS Docs",description:"Documentation for the original LightningJS (pre 3.0)"})}}}]);
